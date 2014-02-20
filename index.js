@@ -1,5 +1,5 @@
 
-var snake = require('to-snake-case');
+var snake = require('ianstormtaylor-to-snake-case');
 
 
 /**

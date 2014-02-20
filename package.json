@@ -1,9 +1,7 @@
 {
-  "name": "to-constant-case",
-  "repository": "git://github.com/ianstormtaylor/to-constant-case.git",
-  "license": "MIT",
+  "name": "ianstormtaylor-to-constant-case",
+  "description": "Convert a string to a constant case.",
   "version": "0.1.2",
-  "description": "Convert a string to constant case.",
   "keywords": [
     "constant",
     "case",
@@ -11,6 +9,7 @@
     "string"
   ],
   "dependencies": {
-    "to-snake-case": "~0.1.2"
-  }
+    "ianstormtaylor-to-snake-case": "git://github.com/npmcomponent/ianstormtaylor-to-snake-case.git"
+  },
+  "license": "MIT"
 }
